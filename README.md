@@ -28,5 +28,5 @@ El usuario interactúa con la aplicación a través de un menú, donde se selecc
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/RubyAguilarBecerra/conversor-de-monedas.git
+https://github.com/RubyAguilarBecerra/ConversorDeMonedaApi.git
 
